@@ -1,5 +1,7 @@
 # React + Vite
 
+This is a class project for AWS. We are team 7.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
